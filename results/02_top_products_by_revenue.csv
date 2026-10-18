@@ -1,0 +1,11 @@
+product_name,category,units_sold,revenue,revenue_rank,pct_of_total_revenue
+Air Fryer,Home,203,1116297.0,1,14.4
+Smart Watch,Electronics,194,775806.0,2,10.0
+Mechanical Keyboard,Electronics,197,689303.0,3,8.89
+Wireless Headphones,Electronics,199,497301.0,4,6.41
+Coffee Maker,Home,153,428247.0,5,5.52
+Dumbbell Set,Sports,193,385807.0,6,4.98
+Running Shoes,Apparel,144,331056.0,7,4.27
+Cricket Bat,Sports,216,323784.0,8,4.18
+Bluetooth Speaker,Electronics,177,318423.0,9,4.11
+Perfume,Beauty,208,270192.0,10,3.48

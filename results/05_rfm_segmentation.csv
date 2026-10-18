@@ -1,0 +1,11 @@
+customer_id,customer_name,recency_days,frequency,monetary,r_score,f_score,m_score,segment
+61,Krishna Verma,27,7,97708.0,4,5,5,Champions
+166,Ira Menon,10,6,95109.0,5,5,5,Champions
+161,Rohan Pillai,8,10,90993.0,5,5,5,Champions
+217,Shreya Patel,58,5,81857.0,2,5,5,At risk
+21,Nikhil Joshi,7,9,79419.0,5,5,5,Champions
+67,Myra Rao,9,8,76594.0,5,5,5,Champions
+174,Vivaan Menon,3,8,71199.0,5,5,5,Champions
+157,Tanvi Patel,24,6,66758.0,4,5,5,Champions
+90,Pooja Mehta,39,5,63819.0,3,5,5,Potential
+242,Aditya Chopra,7,7,63362.0,5,5,5,Champions
